@@ -3,7 +3,7 @@ import { FaLeaf, FaShippingFast, FaClock } from "react-icons/fa";
 
 const Services = () => {
   return (
-    <div className="mt-12 px-4 md:px-8 lg:px-16">
+    <div className="mt-12 px-4 md:px-8 lg:mx-16">
       <h1 className="text-center text-4xl text-green-600 font-bold mb-12">
         Our Services
       </h1>

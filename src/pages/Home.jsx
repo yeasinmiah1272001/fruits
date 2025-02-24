@@ -1,9 +1,14 @@
 import React from "react";
+import Banner from "./Banner";
+import Services from "../components/Services";
+import PopularProducts from "../components/PopularProducts ";
 
 const Home = () => {
   return (
     <div>
-      <h1>home</h1>
+      <Banner />
+      <Services />
+      <PopularProducts />
     </div>
   );
 };
